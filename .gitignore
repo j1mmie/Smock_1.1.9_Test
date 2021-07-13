@@ -1,0 +1,16 @@
+.DS_Store
+.vscode
+node_modules
+
+#solc output
+bin
+
+#Hardhat files
+cache
+artifacts
+
+#istanbul
+coverage
+coverage.json
+
+secrets.json
